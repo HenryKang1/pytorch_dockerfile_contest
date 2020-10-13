@@ -35,4 +35,4 @@ RUN sudo apt-get update && sudo apt-get install -y vim
 ```
 Or run them in the container to make temporary changes.
 
-This file is come from the detectron docker file and I add some of what I needs.
+This file is come from the detectron docker file and I add some of what I need.
